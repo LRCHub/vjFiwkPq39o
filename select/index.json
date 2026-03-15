@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "If Everyone Cared",
+  "base_artist": "Nickelback",
+  "createdAt": "2026-03-15T17:59:26.383797Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "If Everyone Cared",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/01_If_Everyone_Cared_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "If Everyone Cared (2020 Remaster)",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/02_If_Everyone_Cared_(2020_Remaster)_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "If Everyone Cared",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/03_If_Everyone_Cared_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "If Everyone Cared",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/04_If_Everyone_Cared_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "If Everyone Cared",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/05_If_Everyone_Cared_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "If Everyone Cared Lyrics!!!",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/06_If_Everyone_Cared_Lyrics!!!_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nickelback - If Everyone Cared [OFFICIAL VIDEO]",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/07_Nickelback_-_If_Everyone_Cared_[OFFICIAL_VIDEO]_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "If Everyone Cared",
+      "artist": "Nickelback",
+      "has_synced": true,
+      "path": "select/08_If_Everyone_Cared_Nickelback.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "If Everyone Cared (2020 Remaster)",
+      "artist": "Nickelback",
+      "has_synced": false,
+      "path": "select/09_If_Everyone_Cared_(2020_Remaster)_Nickelback.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "If Everyone Cared",
+      "artist": "Nickelback",
+      "has_synced": false,
+      "path": "select/pl_01_If_Everyone_Cared_Nickelback.txt"
+    }
+  ]
+}
